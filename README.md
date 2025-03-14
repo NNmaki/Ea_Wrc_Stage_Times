@@ -21,3 +21,9 @@ Frontend: HTML, CSS, JavaScript (for pop-ups and dynamic updates). Backend: PHP 
 This was pretty fun and useful project! 
 
 See Here: https://nnmaki.com/wrc/
+
+🎯 Screenshots
+
+![wrc_times_1000x670_1](https://github.com/user-attachments/assets/c88c17cf-1bbe-44af-bb4b-b4bd9d02dea9)
+![wrc_times_1000x670_5](https://github.com/user-attachments/assets/57456681-fd55-4fe1-bbf4-ec71c3fbe03e)
+![wrc_times_1000x670_6](https://github.com/user-attachments/assets/d07a552b-6f27-4c05-be28-de33d05c7d2f)
